@@ -38,6 +38,7 @@ GCD737UUDTTXF5MW3SLKLTV6BSZO27XUE62SPUX7P3AKQHHO2ZQMITIP
 with TEXT MEMO: twitter/your_twitter_username
 
 
+
 # Stellar Tipping bot
 
 The stellar tip bot is there to thank people for help, be friendly, buy someone a coffee and spread the word about the amazing stellar network.
