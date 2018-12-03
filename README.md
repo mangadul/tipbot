@@ -7,13 +7,28 @@ TipBotStellar main features:
 * Withdraw
 
 # Usage
-* Help : @TipBotStellar my balance
-* List Token: @TipBotStellar list token
-* Check Balance: @TipBotStellar my balance
+Create tweet and mention to @TipBotStellar
+
+* Help 
+```
+@TipBotStellar my balance
+```
+* List Token
+```
+@TipBotStellar list token
+```
+* Check Balance
+```
+@TipBotStellar my balance
+```
 * Withdraw: @TipBotStellar withdraw [amount] [xlm_or_token] [stellar_wallet_address] [memo]
-- example: @TipBotStellar withdraw GCK3HDQJZNQYVI6QRGZ22D5GXRUUAFHUDT6HXKQBUPSUDZWJOEEXASCI MEMO
+```
+@TipBotStellar withdraw GCK3HDQJZNQYVI6QRGZ22D5GXRUUAFHUDT6HXKQBUPSUDZWJOEEXASCI MEMO
+```
 * Send Tip: Reply and Mention to @TipBotStellar [amount] [xlm_or_token]
-- example: @TipBotStellar 1 BOT
+```
+@TipBotStellar 1 BOT
+```
 
 # Deposit
 To deposit or reload your wallet please send XLM or stellar supported token (CMA, XCN, USD, BTC, SLT, ETH, MOBI, EURT, RMT, XRP, HKDT, LTC, BCH, SBD, BTX, ALEXA, BOT) to 👇
