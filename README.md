@@ -11,7 +11,7 @@ Create tweet and mention to @TipBotStellar
 
 * Help 
 ```
-@TipBotStellar my balance
+@TipBotStellar help
 ```
 * List Token
 ```
@@ -21,13 +21,13 @@ Create tweet and mention to @TipBotStellar
 ```
 @TipBotStellar my balance
 ```
-* Withdraw: @TipBotStellar withdraw [amount] [xlm_or_token] [stellar_wallet_address] [memo]
+* Withdrawal : @TipBotStellar withdraw [amount] [xlm_or_token] [stellar_wallet_address] [memo]
 ```
 @TipBotStellar withdraw 10 XLM GCK3HDQJZNQYVI6QRGZ22D5GXRUUAFHUDT6HXKQBUPSUDZWJOEEXASCI MEMO
 ```
-* Send Tip: Reply and Mention to @TipBotStellar [amount] [xlm_or_token]
+* Send Tip: Reply to user you want to send tipping and mention to @TipBotStellar [amount] [xlm_or_token]
 ```
-@TipBotStellar 1 BOT
+@TipBotStellar 1 XLM
 ```
 
 # Deposit
