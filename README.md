@@ -23,7 +23,7 @@ Create tweet and mention to @TipBotStellar
 ```
 * Withdraw: @TipBotStellar withdraw [amount] [xlm_or_token] [stellar_wallet_address] [memo]
 ```
-@TipBotStellar withdraw GCK3HDQJZNQYVI6QRGZ22D5GXRUUAFHUDT6HXKQBUPSUDZWJOEEXASCI MEMO
+@TipBotStellar withdraw 10 XLM GCK3HDQJZNQYVI6QRGZ22D5GXRUUAFHUDT6HXKQBUPSUDZWJOEEXASCI MEMO
 ```
 * Send Tip: Reply and Mention to @TipBotStellar [amount] [xlm_or_token]
 ```
