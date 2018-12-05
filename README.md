@@ -163,7 +163,7 @@ We are always looking for contributors. A nice way to contribute is [creating mo
 
 If you want to support the development of the bot, please send XLM to:
 
-`GC2BDQ6BCDCIYLPHFGZKO4DJ3L3LQ4KTG3IZYF4M4UDBC3V2CZBZH3TU`
+`GCD737UUDTTXF5MW3SLKLTV6BSZO27XUE62SPUX7P3AKQHHO2ZQMITIP`
 
 Thank you very much!
 
