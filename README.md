@@ -1,9 +1,9 @@
 # New Modification
 
 TipBotStellar main features: 
-* Deposit XLM and token (MEMO required) 
+* Deposit XLM and token (MEMO required) (balance info send via direct message)
 * Tip XLM or token based stellar
-* Check Balance
+* Check Balance (balance info send via direct message)
 * Withdraw (support withdrawal with MEMO and create new wallet)
 
 # Usage
