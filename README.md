@@ -33,7 +33,15 @@ Create tweet and mention to @TipBotStellar
 # Deposit
 To deposit or reload your wallet please send XLM or stellar supported token (CMA, XCN, USD, BTC, SLT, ETH, MOBI, EURT, RMT, XRP, HKDT, LTC, BCH, SBD, BTX, ALEXA, BOT) to 👇
 
-tipbot*stellarx.com (or wallet address GCD737UUDTTXF5MW3SLKLTV6BSZO27XUE62SPUX7P3AKQHHO2ZQMITIP)
+```
+tipbot*stellarx.com 
+```
+
+wallet address
+
+```
+GCD737UUDTTXF5MW3SLKLTV6BSZO27XUE62SPUX7P3AKQHHO2ZQMITIP
+```
 
 with TEXT MEMO: twitter/your_twitter_username
 
