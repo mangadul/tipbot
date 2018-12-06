@@ -45,7 +45,7 @@ GCD737UUDTTXF5MW3SLKLTV6BSZO27XUE62SPUX7P3AKQHHO2ZQMITIP
 
 with TEXT MEMO: twitter/your_twitter_username
 
-# Supported XLM and Token (asset code and issuer)
+# Supported XLM and Stellar Token (asset code and issuer)
 ```
 XLM : native
 CMA : GBWZHAVWY23QKKDJW7TXLSIHY5EX4NIB37O4NMRKN2SKNWOSE5TEPCY3 (cryptomover.com)
