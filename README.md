@@ -26,9 +26,17 @@ Create tweet and mention to @TipBotStellar
 @TipBotStellar withdraw 10 XLM GCK3HDQJZNQYVI6QRGZ22D5GXRUUAFHUDT6HXKQBUPSUDZWJOEEXASCI MEMO
 ```
 * Send Tip: Reply to user you want to send tipping and mention to @TipBotStellar [amount] [xlm_or_token]
+
+*For reply format
 ```
 @TipBotStellar 1 XLM
 ```
+
+*For fresh tweet format
+```
+@UserYouWantToSendTip 1 XLM @TipBotStellar [comment if available]
+```
+
 
 # Deposit
 To deposit or reload your wallet please send XLM or stellar supported token (CMA, XCN, USD, BTC, SLT, ETH, MOBI, EURT, RMT, XRP, HKDT, LTC, BCH, SBD, BTX, ALEXA, BOT) to 👇
