@@ -4,7 +4,7 @@ TipBotStellar main features:
 * Deposit XLM and token (MEMO required) 
 * Tip XLM or token based stellar
 * Check Balance
-* Withdraw
+* Withdraw (support withdrawal with MEMO and create new wallet)
 
 # Usage
 Create tweet and mention to @TipBotStellar
