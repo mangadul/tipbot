@@ -1,4 +1,4 @@
-# New Modification
+# Changes
 
 TipBotStellar main features: 
 * Deposit XLM and token (MEMO required) (deposit info send via direct message)
