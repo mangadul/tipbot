@@ -53,6 +53,12 @@ GCD737UUDTTXF5MW3SLKLTV6BSZO27XUE62SPUX7P3AKQHHO2ZQMITIP
 
 with TEXT MEMO: twitter/your_twitter_username
 
+# Log of Transaction
+All latest log of transaction send to telegram channel https://t.me/TipBotStellarInfo (we need Premium API to send direct message to your twitter account)
+
+# TipBotStellar Support
+Please join telegram group https://t.me/TipBotStellar to get support from our community
+
 # Supported XLM and Stellar Token (asset code and issuer)
 ```
 XLM : native
