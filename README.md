@@ -39,7 +39,7 @@ Create a fresh tweet or unique tweet (you must delete same previous tweet to avo
 
 
 # Deposit
-To deposit or reload your wallet please send XLM or stellar supported token (CMA, XCN, USD, BTC, SLT, ETH, MOBI, EURT, RMT, XRP, HKDT, LTC, BCH, SBD, BTX, ALEXA, BOT, TERN, CJS, DRA, PEDI, ZRX, KIN, BAT, PHP, GRAT, NGN, LINK, IN, FTR, FRAS) to 👇
+To deposit or reload your wallet please send XLM or stellar based supported token (CMA, XCN, USD, BTC, SLT, ETH, MOBI, EURT, RMT, XRP, HKDT, LTC, BCH, SBD, BTX, ALEXA, BOT, TERN, CJS, DRA, PEDI, ZRX, KIN, BAT, PHP, GRAT, NGN, LINK, IN, FTR, FRAS) to 👇
 
 ```
 tipbot*stellarx.com 
