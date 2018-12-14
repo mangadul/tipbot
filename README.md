@@ -7,7 +7,7 @@ TipBotStellar main features:
 * Withdraw (support withdrawal with MEMO and create new wallet)
 
 # Usage
-Create tweet and mention to @TipBotStellar
+Create a fresh tweet (you must delete same previous tweet to avoid spamming on twitter) and mention to @TipBotStellar
 
 * Help 
 ```
